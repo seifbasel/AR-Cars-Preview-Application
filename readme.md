@@ -1,5 +1,4 @@
 # Augmented Reality Car Showcase and Prefab House View
-# Augmented Reality Car Showcase and Prefab House View
 
 <p align="center">
   <img src="pics/1.jpg" alt="Image Alt Text" width="150" />
@@ -9,17 +8,32 @@
   <img src="pics/5.jpg" alt="Image Alt Text" width="150" />
   <img src="pics/6.jpg" alt="Image Alt Text" width="150" />
 <img src="pics/7.jpg" alt="Image Alt Text" width="150" />
-
 </p>
+
+## Activation of House Prefab
+
+To activate the prefab house view, follow these steps:
+
+1. Launch the AR app on your ARCore-supported Android device.
+
+2. Navigate to the left empty section within the app.
+
+3. Look for the designated activation image displayed below:
+
+   ![Activation Image](pics/code.jpg)
+
+4. Hold your device's camera over the activation image until it is recognized by the app.
+
+5. Once the image is detected, you will experience the seamless overlay of the prefab house view in your physical environment.
+
+**Note:** Ensure proper lighting conditions for optimal image recognition.
+
+# Augmented Reality Prefab House View Showcase
 
 <p align="center">
 <img src="pics/8.jpg" alt="Image Alt Text" width="150" />
 <img src="pics/9.jpg" alt="Image Alt Text" width="150" />
 </p>
-
-
-
-
 
 ## Project Overview
 The Augmented Reality Car Showcase and Prefab House View project seamlessly integrates Google's AR Core with Unity's visual scripting tools. This repository contains the compiled APK file for an immersive and interactive platform that allows users to explore a curated collection of 3D car models and experience a prefab house view triggered by image recognition.
