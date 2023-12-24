@@ -1,11 +1,11 @@
 # Augmented Reality Car Showcase and Prefab House View
-![Image Alt Text](pics/1.jpg)
-![Image Alt Text](pics/2.jpg)
-![Image Alt Text](pics/3.jpg)
-![Image Alt Text](pics/4.jpg)
-![Image Alt Text](pics/5.jpg)
-![Image Alt Text](pics/6.jpg)
-![Image Alt Text](pics/7.jpg)
+# Augmented Reality Car Showcase and Prefab House View
+
+![Image Alt Text](pics/1.jpg) | ![Image Alt Text](pics/2.jpg) | ![Image Alt Text](pics/3.jpg)
+--- | --- | ---
+![Image Alt Text](pics/4.jpg) | ![Image Alt Text](pics/5.jpg) | ![Image Alt Text](pics/6.jpg)
+![Image Alt Text](pics/7.jpg) | | 
+
 
 
 ## Project Overview
