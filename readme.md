@@ -2,19 +2,19 @@
 # Augmented Reality Car Showcase and Prefab House View
 
 <p align="center">
-  <img src="pics/1.jpg" alt="Image Alt Text" width="200" />
-  <img src="pics/2.jpg" alt="Image Alt Text" width="200" />
-  <img src="pics/3.jpg" alt="Image Alt Text" width="200" />
-  <img src="pics/4.jpg" alt="Image Alt Text" width="200" />
-  <img src="pics/5.jpg" alt="Image Alt Text" width="200" />
-  <img src="pics/6.jpg" alt="Image Alt Text" width="200" />
-<img src="pics/7.jpg" alt="Image Alt Text" width="200" />
+  <img src="pics/1.jpg" alt="Image Alt Text" width="150" />
+  <img src="pics/2.jpg" alt="Image Alt Text" width="150" />
+  <img src="pics/3.jpg" alt="Image Alt Text" width="150" />
+  <img src="pics/4.jpg" alt="Image Alt Text" width="150" />
+  <img src="pics/5.jpg" alt="Image Alt Text" width="150" />
+  <img src="pics/6.jpg" alt="Image Alt Text" width="150" />
+<img src="pics/7.jpg" alt="Image Alt Text" width="150" />
 
 </p>
 
 <p align="center">
-<img src="pics/8.jpg" alt="Image Alt Text" width="200" />
-<img src="pics/9.jpg" alt="Image Alt Text" width="200" />
+<img src="pics/8.jpg" alt="Image Alt Text" width="150" />
+<img src="pics/9.jpg" alt="Image Alt Text" width="150" />
 </p>
 
 
