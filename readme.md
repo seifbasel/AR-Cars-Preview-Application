@@ -20,7 +20,7 @@ To activate the prefab house view, follow these steps:
 
 3. Look for the designated activation image displayed below:
 
-   ![Activation Image](pics/code.jpg)
+   ![Activation Image](pics/house.png)
 
 4. Hold your device's camera over the activation image until it is recognized by the app.
 
